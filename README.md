@@ -8,9 +8,9 @@ Repositório da equipe para a disciplina **Tópicos Especiais em Inteligência A
 
 | Nome | Usuário no GitHub | Pasta de trabalho |
 |---|---|---|
-| | | `src/membros/Daniel/` |
-| | | `src/membros/Claude/` |
-| | | `src/membros/Gemini/` |
+| Lara | lcpfrigulha-dev | `src/membros/Daniel/` |
+| Beatriz | biaaplima-sys | `src/membros/Claude/` |
+| Leandro | LeandroHCarvalho | `src/membros/Gemini/` |
 
 ## Nosso problema
 
