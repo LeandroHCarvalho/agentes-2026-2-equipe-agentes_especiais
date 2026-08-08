@@ -1,4 +1,4 @@
-# Canvas de Problema — Equipe ___
+# Canvas de Problema — Equipe Agentes Especiais
 
 *Copie aqui o conteúdo de `pbl/templates/canvas-de-problema.md` da disciplina e preencha. Rascunho individual até o Encontro 2; versão consolidada da equipe até o Encontro 3.*
 
@@ -6,20 +6,24 @@
 
 ## 1. O problema em uma frase
 
-> Hoje, _______________ precisa _______________, mas _______________, o que causa _______________.
+> Hoje, quem vai alugar um imóvel precisa entender rapidamente todas as obrigações, prazos e taxas do contrato, mas os documentos possuem linguagem jurídica complexa e requisitos técnicos extensos, o que causa insegurança ao assinar e surpresas financeiras indesejadas durante a locação.
 
 ## 2. Quem sofre com isso
 
+> Pessoas que precisam alugar uma moradia.
+
 ## 3. Como se resolve hoje
+
+> Hoje quem precisa alugar uma moradia, fica a mercê, pois os contratos tem linguagem juridica complexa e falta uma compreensão melhor sobre as legislações vigentes.
 
 ## 4. PEAS
 
 | | Preencha |
 |---|---|
-| **P**erformance — como se mede sucesso, de forma verificável | |
-| **E**nvironment — sobre que dados, sistemas e documentos opera | |
-| **A**ctuators — que ações o agente pode executar | |
-| **S**ensors — o que ele recebe como entrada | |
+| **P**erformance — como se mede sucesso, de forma verificável | Precisão na extração de dados, detecção de riscos e divergências, clareza na lingagem, curto tempo de resposta |
+| **E**nvironment — sobre que dados, sistemas e documentos opera | Entrada de contratos, jurisprudencias, e leis vigentes sobre o tema |
+| **A**ctuators — que ações o agente pode executar | Avaliar e comparar os contratos com as leis vigentes |
+| **S**ensors — o que ele recebe como entrada | Contratos de alugel |
 
 ## 5. Dados — a seção decisiva
 
